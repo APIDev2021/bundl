@@ -1,0 +1,1 @@
+import{g as t}from"./q-BdDSi9nv.js";import{y as p}from"./q-BdDSi9nv.js";const c=()=>{const[e,s]=t();e.value=!0;const r=new IntersectionObserver(([o])=>{e.value=o.isIntersecting},{threshold:.1});return r.observe(s.value),()=>r.disconnect()};export{p as _hW,c as s_nJTSLKMXyHY};
